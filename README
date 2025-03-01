@@ -1,0 +1,5 @@
+This repository serves as a supplement for the paper "Comparison of FFT filter computation time in different programming languages". It contains the code and resources used to generate the results presented in the paper. You are free to use, modify and redistribute the code as per the terms of the public domain (un)license.
+
+The repository consists of the following directories:
+C++, JAVA, MATLAB, PYTHON - contain source files of code used to measure FFT computation times
+FILTERS - filter files used for testing different filter lengths, each filter having its sample count in the filename
